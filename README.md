@@ -3,14 +3,18 @@
 Bienvenido al [**IA Reading Group**](https://mr-mcgl.github.io/ia-reading-group/), un espacio para compartir, discutir y analizar lecturas sobre inteligencia artificial.  
 
 ## Índice
+  
+* *Papers* y otros recursos:
+  * [Razonamiento](topics/razonamiento.md)
+  * [Generación Aumentada por Recuperación (Retrieval Augmented Generation - RAG)](topics/RAG.md)
+  * Agentización 
+  * [Arquitecturas y Limitaciones de los Grandes Modelos de Lenguaje](topics/architectures4llms.md)
+  * [AI Governance: Ética, Alineamiento, Explicabilidad y Controles de Seguridad en LLMs](topics/ethics.md)
+  * [Cajon desastre 📦️😵](topics/ordenar.md)
 
 * Sesiones:
-  * 
-  
-* *Papers* por leer:
-  * Agentización 
-  * Varios []()
-  * 
+  * [Feb 2025](sessions/202502.md)
+  * [Mar 2025](sessions/202503.md)
 
 <!---## 📌 Objetivo  
 ## 🚀 ¿Cómo participar?  

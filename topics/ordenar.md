@@ -1,4 +1,4 @@
-# Articulos por clasificar
+# Artículos por clasificar
 
 ## RAG
 
@@ -6,7 +6,6 @@
 - **LightRAG**: [https://lightrag.github.io/](https://lightrag.github.io/), [https://github.com/HKUDS/LightRAG?tab=readme-ov-file](https://github.com/HKUDS/LightRAG?tab=readme-ov-file)  
 - **ColPali**: [https://arxiv.org/abs/2407.01449](https://arxiv.org/abs/2407.01449), [https://github.com/illuin-tech/colpali](https://github.com/illuin-tech/colpali)  
 - **REALM**: Retrieval-Augmented Language Model Pre-Training (2020): [https://arxiv.org/pdf/2002.08909](https://arxiv.org/pdf/2002.08909)  
-
 
 * Surveys
   * https://arxiv.org/abs/2312.10997
@@ -36,7 +35,7 @@
 - **OpenHands**: An Open Platform for AI Software Developers as Generalist Agents  
   - [https://arxiv.org/abs/2407.16741](https://arxiv.org/abs/2407.16741)  
 
-**Investigación automatica**
+**Investigación automática**
 
 - [https://storm.genie.stanford.edu/](https://storm.genie.stanford.edu/)  
 - [https://arxiv.org/abs/2406.06769](https://arxiv.org/abs/2406.06769) (2024)  
@@ -85,7 +84,7 @@
 - **Trabajos de META en traducción y clonación**:  
   - **SeamlessM4t V2**: Modelo fundacional  
   - **SeamlessExpressive**: Traducción manteniendo expresividad y tono emocional  
-  - **SeamlessStreaming**: Speach and text  
+  - **SeamlessStreaming**: Speech and text  
   - **Seamless**: Combina las capacidades de los anteriores  
     - [GitHub](https://github.com/facebookresearch/seamless_communication)  
     - [Demo](https://seamless.metademolab.com/expressive/)  
@@ -173,4 +172,4 @@
 ***Jailbreak***
 - [https://www.reddit.com/r/ChatGptDAN/comments/1fbxxgm/chat_gpt_jailbreak_demonic_chloe/?force_seo=1](https://www.reddit.com/r/ChatGptDAN/comments/1fbxxgm/chat_gpt_jailbreak_demonic_chloe/?force_seo=1)  
 - [https://arxiv.org/abs/2401.06373](https://arxiv.org/abs/2401.06373)  
-- [https://arxiv.org/abs/2408.01420](https://arxiv.org/abs/2408.01420)  
+- [https://arxiv.org/abs/2408.01420](https://arxiv.org/abs/2408.01420)
