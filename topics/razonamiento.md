@@ -60,6 +60,7 @@
   **Descripción**: El equipo de QWEN presenta prácticas y lecciones en la construcción de modelos de recompensa de procesos para el razonamiento matemático, destacando desafíos en la anotación de datos y metodologías de evaluación.
 
 * **Transformer²: Self-Adaptive LLMs** (9 ene 2025 – Sakana AI)  
+  [arXiv](https://arxiv.org/abs/2501.06252) 
   [Sakana AI](https://sakana.ai/transformer-squared/)  
   **Keywords**: Razonamiento, Singular Value Fine-Tuning (SVF), Adaptación dinámica  
   **Descripción**: Sistema de aprendizaje automático que ajusta dinámicamente sus pesos para adaptarse a diversas tareas en tiempo real. Utiliza **descomposición en valores singulares y aprendizaje por refuerzo** para permitir que los modelos de lenguaje se adapten a nuevas tareas sin necesidad de reentrenamiento extenso, mejorando la eficiencia y el rendimiento.
