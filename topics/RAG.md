@@ -14,6 +14,12 @@
   **Keywords**: RAG, grafos  
   **Descripción**: Este artículo realiza un repaso sistemático de GraphRAG, una metodología que integra conocimientos estructurados en grafos para personalizar los LLMs (*Large Language Models* - Modelos de Lenguaje de Gran Tamaño), facilitando la recuperación y generación de información en dominios especializados.
 
+* **Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG** (15 ene 2025 – Cleveland State University, The Davey Tree Expert Company, The MathWorks Inc, Northeastern University)  
+  [arXiv](https://arxiv.org/abs/2501.09136) | [GitHub](https://github.com/asinghcsu/AgenticRAG-Survey)  
+  **Keywords**: Agentic RAG, LLMs, Multi-Agent Collaboration  
+  **Descripción**: Este artículo revisa Agentic RAG, un enfoque que introduce agentes autónomos en los sistemas RAG, mejorando la recuperación, el razonamiento multiagente y la adaptabilidad dinámica.
+
+
 ## Otros recursos
 
 ### Webs
