@@ -1,4 +1,4 @@
-# IA Reading Group 📚🤖  
+# AI Reading Group 📚🤖  
 
 Bienvenido al [**IA Reading Group**](https://mr-mcgl.github.io/ia-reading-group/), un espacio para compartir, discutir y analizar lecturas sobre inteligencia artificial.  
 
