@@ -11,7 +11,8 @@
 
 ## Estrategias
 
-- ***Chain-of-Thoughts*** (Cadena de pensamiento): Estrategia de *prompting* en la que se pide al modelo que razone.
+- ***Chain-of-Thoughts*** (Cadena de pensamiento): Estrategia de *prompting* en la que se pide al modelo que genere razonamientos intermedios.
+- ***Chain-of-Draft*** (Cadenas de borradores): Estrategia de *prompting* en la que se pide al modelo que genere razonamientos intermedios concisos y eficientes, capturando solo la información esencial.
 - ***In-Context Learning*** (Aprendizaje en contexto): Estrategia de *prompting* en la que se proporcionan ejemplos en el prompt.
 - **Modelos inductivos y búsqueda simbólica**: Se entrena al modelo para que, en lugar de dar la respuesta, devuelva una función o una cadena lógica formal que resuelva el problema.
 - ***Output Review Models (ORM)***: Verificadores de la salida final.
@@ -23,6 +24,11 @@
 - Carga dinámica de pesos ajustados para distintos problemas.
 
 ## Papers
+
+* **Chain of Draft: Thinking Faster by Writing Less** (25 feb 2025 – Zoom Communications)  
+  [arXiv](https://arxiv.org/abs/2502.18600)  
+  **Keywords**: Razonamiento, *Chain of Thought* (cadena de pensamiento), eficiencia  
+  **Descripción**: Este trabajo propone "Chain of Draft" (CoD), una estrategia de *prompting* , donde los modelos de lenguaje generan razonamientos intermedios mínimos pero informativos al resolver tareas. Al reducir la verbosidad y centrarse en ideas clave, CoD iguala "Chain of Thought" (CoT) utilizando solo el 7,6% de los tokens, lo que reduce significativamente el coste y la latencia en diversas tareas de razonamiento. 
 
 * **DeepSeek-R1** (19 feb 2025 – DeepSeek)  
   [DeepSeek_R1.pdf](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)  
