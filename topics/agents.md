@@ -9,6 +9,12 @@
 
 ## Papers
 
+* **Agentic Reasoning: Reasoning LLMs with Tools for Deep Research** (7 feb 2025 – Oxford)  
+  [arXiv](https://arxiv.org/abs/2502.04644) | [GitHub](https://github.com/theworldofagents/Agentic-Reasoning)  
+  **Keywords**: *LLMs* (modelos de lenguaje grandes), razonamiento, agentes, herramientas externas, investigación profunda (*deep research*), *knowledge graph* (grafo de conocimiento), RAG
+  **Descripción**: Este trabajo introduce **Agentic Reasoning**, un marco que mejora el razonamiento de los *LLMs* integrando *agents* que utilizan herramientas externas.  
+
+
 * **Agentless: Demystifying LLM-based Software Engineering Agents** (1 jul 2024 – University of Illinois)  
   [arXiv](https://arxiv.org/abs/2407.01489) | [GitHub](https://github.com/OpenAutoCoder/Agentless)  
   **Keywords**: Agentización, modelos de lenguaje grandes (*LLMs*), automatización  
@@ -18,6 +24,12 @@
 
 ### Código
 
-* **Agentless**  (25 feb 2025 – University of Illinois)  
+
+* **Agentic Reasoning: Reasoning LLMs with Tools for Deep Research** (7 feb 2025 – Oxford)  
+  [GitHub](https://github.com/theworldofagents/Agentic-Reasoning)  
+  **Descripción**: Repositorio de **Agentic Reasoning**.
+
+
+* **Agentless**  (1 jul 2024 – University of Illinois)  
   [GitHub](https://github.com/OpenAutoCoder/Agentless)  
-  **Descripción**: Repositorio del proyecto Agentless.
+  **Descripción**: Repositorio del proyecto **Agentless**.
