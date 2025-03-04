@@ -9,6 +9,8 @@
 
 ## Papers
 
+
+
 * **A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models** (21 ene 2025 – Hong Kong Polytechnic)  
   [arXiv](https://arxiv.org/abs/2501.13958) | [GitHub](https://github.com/DEEP-PolyU/Awesome-GraphRAG)  
   **Keywords**: RAG, grafos  
@@ -23,6 +25,12 @@
   [arXiv](https://arxiv.org/abs/2501.09136) | [GitHub](https://github.com/asinghcsu/AgenticRAG-Survey)  
   **Keywords**: Agentic RAG, LLMs, Multi-Agent Collaboration  
   **Descripción**: Este artículo revisa Agentic RAG, un enfoque que introduce agentes autónomos en los sistemas RAG, mejorando la recuperación, el razonamiento multiagente y la adaptabilidad dinámica.
+
+
+* **Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks** (20 dic 2024 – Taiwan)  
+  [arXiv](https://arxiv.org/abs/2412.15605)  
+  **Keywords**: Modelos de lenguaje grandes (*LLMs*), generación aumentada por recuperación (*Retrieval-Augmented Generation* - RAG), generación aumentada por caché (*Cache-Augmented Generation* - CAG), eficiencia  
+  **Descripción**: Este trabajo propone la **generación aumentada por caché** (*Cache-Augmented Generation* - CAG) como una alternativa a la generación aumentada por recuperación (*Retrieval-Augmented Generation* - RAG) en modelos de lenguaje grandes. CAG implica precargar todos los recursos relevantes en el contexto extendido del modelo antes de la inferencia, eliminando la necesidad de recuperación en tiempo real. 
 
 
 ## Otros recursos

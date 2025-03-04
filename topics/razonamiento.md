@@ -12,7 +12,7 @@
 ## Estrategias
 
 - ***Chain-of-Thoughts*** (Cadena de pensamiento): Estrategia de *prompting* en la que se pide al modelo que genere razonamientos intermedios.
-- ***Chain-of-Draft*** (Cadenas de borradores): Estrategia de *prompting* en la que se pide al modelo que genere razonamientos intermedios concisos y eficientes, capturando solo la información esencial.
+- ***Chain-of-Draft/Short Chain-of-Thoughts*** (Cadenas de borradores/Cadenas cortas): Estrategia de *prompting* en la que se pide al modelo que genere razonamientos intermedios concisos y eficientes, capturando solo la información esencial.
 - ***In-Context Learning*** (Aprendizaje en contexto): Estrategia de *prompting* en la que se proporcionan ejemplos en el prompt.
 - **Modelos inductivos y búsqueda simbólica**: Se entrena al modelo para que, en lugar de dar la respuesta, devuelva una función o una cadena lógica formal que resuelva el problema.
 - ***Output Review Models (ORM)***: Verificadores de la salida final.
@@ -24,6 +24,11 @@
 - Carga dinámica de pesos ajustados para distintos problemas.
 
 ## Papers
+
+* **Order Doesn't Matter, But Reasoning Does: Training LLMs with Order-Centric Augmentation** (27 feb 2025 – Shanghai)  
+  [arXiv](https://arxiv.org/abs/2502.19907)  
+  **Keywords**: Modelos de lenguaje grandes (*LLMs*), razonamiento lógico, aumento de datos centrado en el orden  
+  **Descripción**: Este estudio aborda la sensibilidad de los modelos de lenguaje grandes al orden de las premisas y los pasos de razonamiento. 
 
 * **Chain of Draft: Thinking Faster by Writing Less** (25 feb 2025 – Zoom Communications)  
   [arXiv](https://arxiv.org/abs/2502.18600)  
@@ -49,6 +54,11 @@
   [arXiv](https://arxiv.org/abs/2502.06807)  
   **Keywords**: Razonamiento, *reinforcement learning*, *reinforcement fine-tuning*  
   **Descripción**: Este estudio demuestra que el uso de aprendizaje por refuerzo en modelos de lenguaje de gran tamaño mejora significativamente el rendimiento en tareas complejas de programación y razonamiento.
+
+* **Kimi k1.5: Scaling Reinforcement Learning with LLMs** (22 ene 2025 – Kimi Team)  
+  [arXiv](https://arxiv.org/abs/2501.12599) | [GitHub](https://github.com/MoonshotAI/Kimi-k1.5)  
+  **Keywords**: Razonamiento, modelos de lenguaje grandes (*LLMs*), aprendizaje por refuerzo (*Reinforcement Learning*), multimodalidad  
+  **Descripción**: Este trabajo presenta **Kimi k1.5**, un modelo multimodal de lenguaje de gran tamaño entrenado mediante aprendizaje por refuerzo. El modelo destaca por su capacidad para procesar contextos largos de hasta 128k tokens y por su rendimiento superior en tareas de razonamiento, alcanzando puntuaciones de 77.5 en AIME y 96.2 en MATH 500. Además, introduce técnicas para mejorar modelos de razonamiento de cadena corta (*short-CoT*), superando significativamente a modelos existentes como GPT-4o y Claude Sonnet 3.5. El repositorio de GitHub proporciona el informe completo y recursos adicionales.
 
 * **Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters** (22 ene 2025 – Google y UC Berkeley)  
   [OpenReview](https://openreview.net/forum?id=4FWAwZtd2n)  
@@ -115,6 +125,12 @@
   **Keywords**: Razonamiento, cadena de pensamiento (*chain-of-thought*), ajuste fino (*fine-tuning*)  
   **Descripción**: Primeros intentos de razonamiento. Mejora la capacidad de los modelos de lenguaje para generar razonamientos paso a paso, conocidos como "chain-of-thought", en tareas complejas como matemáticas o preguntas de sentido común. La contribución principal del artículo es el método utilizado para generar el conjunto de datos con el que se realiza el fine-tuning del modelo.
 
+ 
+* **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** (28 ene 2022 – Google)  
+  [arXiv](https://arxiv.org/abs/2201.11903)  
+  **Keywords**: Modelos de lenguaje grandes (*LLMs*), razonamiento, *Chain-of-Thought Prompting*  
+  **Descripción**: Este trabajo explora cómo la generación de una cadena de pensamiento—una serie de pasos de razonamiento intermedios—mejora significativamente la capacidad de los modelos de lenguaje grandes para realizar razonamientos complejos. 
+
 ## Otros recursos
 
 ### Código
@@ -122,6 +138,10 @@
 * **DeepScaleR-1.5B-Preview** (febrero 2025 – Agentica)  
   [Hugging Face](https://huggingface.co/agentica-org/DeepScaleR-1.5B-Preview)  
   **Descripción**: Modelo de lenguaje ajustado a partir de DeepSeek-R1-Distilled-Qwen-1.5B utilizando aprendizaje por refuerzo distribuido.
+
+* **Kimi k1.5** (22 ene 2025 – Kimi Team)  
+  [GitHub](https://github.com/MoonshotAI/Kimi-k1.5)  
+  **Descripción**: Repositorio del proyecto Kimi k1.5.
 
 * **TinyZero: Reproducción de DeepSeek R1-Zero** (febrero 2025 – Berkeley)  
   [GitHub](https://github.com/Jiayi-Pan/TinyZero)  
@@ -144,4 +164,8 @@
 * **Reinforcement Fine-Tuning—12 Days of OpenAI: Day 2** (diciembre 2024 – OpenAI)  
   [YouTube](https://www.youtube.com/watch?v=yCIYS9fx56U) | [OpenAI](https://openai.com/form/rft-research-program/)  
   **Descripción**: Miembros del equipo de OpenAI presentan el programa de investigación sobre ajuste fino mediante refuerzo, destacando su importancia en el desarrollo de modelos de lenguaje más precisos y eficientes.
+
+* **The AI Reasoning Lie** (febrero 2025 – Discover IA - YouTube)  
+    [YouTube](https://www.youtube.com/watch?v=oE98PJefK4w&ab_channel=DiscoverAI)  
+    **Descripción**:Limitaciones de los modelos de razonamiento.
   

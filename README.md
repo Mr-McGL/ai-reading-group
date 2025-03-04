@@ -7,7 +7,7 @@ Bienvenido al [**AI Reading Group**](https://mr-mcgl.github.io/ai-reading-group/
 * *Papers* y otros recursos:
   * [Razonamiento](topics/razonamiento.md)
   * [Generación Aumentada por Recuperación (Retrieval Augmented Generation - RAG)](topics/RAG.md)
-  * Agentización 
+  * [Agentización](topics/agents.md) 
   * [Arquitecturas y Limitaciones de los Grandes Modelos de Lenguaje](topics/architectures4llms.md)
   * [AI Governance: Ética, Alineamiento, Explicabilidad y Controles de Seguridad en LLMs](topics/ethics.md)
   * [Cajon desastre 📦️😵](topics/ordenar.md)

@@ -4,11 +4,19 @@
 
 - [Arquitecturas y Limitaciones de los Grandes Modelos de Lenguaje](#arquitecturas-y-limitaciones-de-los-grandes-modelos-de-lenguaje)
   - [Papers](#papers)
+    - [Uso de herramientas](#uso-de-herramientas)
     - [Ventana de Contexto](#ventana-de-contexto)
   - [Otros Recursos](#otros-recursos)
     - [Vídeos](#vídeos)
 
 ## Papers
+
+### Uso de herramientas
+
+* **Toolformer: Language Models Can Teach Themselves to Use Tools** (9 feb 2023 – META/Pompeu Fabra)  
+  [arXiv](https://arxiv.org/abs/2302.04761) | [GitHub](https://github.com/conceptofmind/toolformer)  
+  **Keywords**: Modelos de lenguaje grandes (*LLMs*), herramientas externas, aprendizaje auto-supervisado  
+  **Descripción**: Este trabajo introduce **Toolformer**, un modelo que se entrena para decidir qué APIs llamar, cuándo llamarlas, qué argumentos pasar y cómo incorporar mejor los resultados en la predicción de tokens futuros. 
 
 ### Ventana de Contexto
 
@@ -26,6 +34,28 @@
   [arXiv](https://arxiv.org/abs/2104.09864)  
   **Keywords**: Ventana de contexto, *rotary position embedding*  
   **Descripción**: Propone una mejora en la arquitectura Transformer mediante la incorporación de Rotary Position Embedding, lo que permite un modelado más flexible y eficaz de las relaciones posicionales en secuencias, optimizando el desempeño en tareas de procesamiento de lenguaje.
+
+
+### Eficiencia/Caches
+
+* **Auditing Prompt Caching in Language Model APIs** (11 feb 2025 – Standford)    
+  [arXiv](https://arxiv.org/abs/2502.07776)  
+  **Keywords**: Modelos de lenguaje grandes (*LLMs*), almacenamiento en caché de *prompts*, ataques de canal lateral, privacidad  
+  **Descripción**: Este estudio investiga cómo el almacenamiento en caché de *prompts* en APIs de modelos de lenguaje grandes puede introducir variaciones en los tiempos de respuesta, lo que podría ser explotado en ataques de canal lateral. Mediante auditorías estadísticas, los autores detectaron que 8 de 17 proveedores de APIs, incluyendo OpenAI, comparten cachés globalmente entre usuarios, lo que podría permitir a un atacante inferir información sobre los *prompts* de otros usuarios basándose en tiempos de respuesta más rápidos. 
+
+* **Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks** (20 dic 2024 – Taiwan)  
+  [arXiv](https://arxiv.org/abs/2412.15605)  
+  **Keywords**: Modelos de lenguaje grandes (*LLMs*), generación aumentada por recuperación (*Retrieval-Augmented Generation* - RAG), generación aumentada por caché (*Cache-Augmented Generation* - CAG), eficiencia  
+  **Descripción**: Este trabajo propone la **generación aumentada por caché** (*Cache-Augmented Generation* - CAG) como una alternativa a la generación aumentada por recuperación (*Retrieval-Augmented Generation* - RAG) en modelos de lenguaje grandes. CAG implica precargar todos los recursos relevantes en el contexto extendido del modelo antes de la inferencia, eliminando la necesidad de recuperación en tiempo real. 
+
+
+* **Prompt Cache: Modular Attention Reuse for Low-Latency Inference** (7 nov 2023 – Google, Yale)  
+  [arXiv](https://arxiv.org/abs/2311.04934)  
+  **Keywords**: Modelos de lenguaje grandes (*LLMs*), reutilización de estados de atención, inferencia de baja latencia  
+  **Descripción**: Este trabajo presenta **Prompt Cache**, una técnica para acelerar la inferencia en modelos de lenguaje grandes mediante la reutilización de estados de atención en diferentes *prompts*. 
+
+
+
 
 ## Otros Recursos
 
