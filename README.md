@@ -15,6 +15,7 @@ Bienvenido al [**AI Reading Group**](https://mr-mcgl.github.io/ai-reading-group/
 * Sesiones:
   * [Feb 2025](sessions/202502.md)
   * [Mar 2025](sessions/202503.md)
+  * [Abr 2025](sessions/202504.md)
 
 <!---## 📌 Objetivo  
 ## 🚀 ¿Cómo participar?  
