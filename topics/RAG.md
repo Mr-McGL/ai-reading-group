@@ -67,6 +67,3 @@
 * **PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths** (18 feb 2025 – Beijing, Hong Kong)  
 [GitHub](https://github.com/BUPT-GAMMA/PathRAG)  
 **Descripción**: Repositorio de **PathRAG**.
-
-
----

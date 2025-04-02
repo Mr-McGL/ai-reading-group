@@ -16,7 +16,7 @@
 * **Large Language Diffusion Models** (18 feb 2025 – Renmin University of China, Ant Group)  
   [arXiv](https://arxiv.org/pdf/2502.09992)  
   **Keywords**: Modelos de lenguaje grandes, difusión, generative modeling, in-context learning, razonamiento inverso, escalabilidad  
-  **Descripción**: Este estudio introduce LLaDA, un modelo de difusión para grandes modelos de lenguaje entrenado desde cero bajo un paradigma de preentrenamiento y fine-tuning supervisado. A diferencia de los modelos autoregresivos tradicionales, LLaDA define la distribución del modelo mediante un proceso de enmascaramiento aleatorio y un predictor de máscaras basado en Transformers, lo que permite capturar dependencias bidireccionales y superar limitaciones inherentes a la generación token a token. Los resultados demuestran que LLaDA es competitivo en escalabilidad y rendimiento en tareas de comprensión, matemáticas, generación de código y diálogo, estableciendo a los modelos de difusión como una alternativa prometedora a los enfoques autoregresivos.
+  **Descripción**: Este estudio introduce LLaDA, un modelo de difusión para grandes modelos de lenguaje entrenado desde cero bajo un paradigma de preentrenamiento y fine-tuning supervisado. A diferencia de los modelos autorregresivos tradicionales, LLaDA define la distribución del modelo mediante un proceso de enmascaramiento aleatorio y un predictor de máscaras basado en Transformers, lo que permite capturar dependencias bidireccionales y superar limitaciones inherentes a la generación token a token. Los resultados demuestran que LLaDA es competitivo en escalabilidad y rendimiento en tareas de comprensión, matemáticas, generación de código y diálogo, estableciendo a los modelos de difusión como una alternativa prometedora a los enfoques autorregresivos.
 
 
 ### Uso de herramientas
@@ -46,7 +46,7 @@
 
 ### Eficiencia/Caches
 
-* **Auditing Prompt Caching in Language Model APIs** (11 feb 2025 – Standford)    
+* **Auditing Prompt Caching in Language Model APIs** (11 feb 2025 – Standford)  
   [arXiv](https://arxiv.org/abs/2502.07776)  
   **Keywords**: Modelos de lenguaje grandes (*LLMs*), almacenamiento en caché de *prompts*, ataques de canal lateral, privacidad  
   **Descripción**: Este estudio investiga cómo el almacenamiento en caché de *prompts* en APIs de modelos de lenguaje grandes puede introducir variaciones en los tiempos de respuesta, lo que podría ser explotado en ataques de canal lateral. Mediante auditorías estadísticas, los autores detectaron que 8 de 17 proveedores de APIs, incluyendo OpenAI, comparten cachés globalmente entre usuarios, lo que podría permitir a un atacante inferir información sobre los *prompts* de otros usuarios basándose en tiempos de respuesta más rápidos. 

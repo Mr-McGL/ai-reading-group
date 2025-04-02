@@ -7,7 +7,7 @@
 
 ## Papers
 
-* **Frontier Models are Capable of In-context Scheming** (2025-01-16– Apollo Research)  
+* **Frontier Models are Capable of In-context Scheming** (16 ene 2025 – Apollo Research)  
   [arXiv](https://arxiv.org/pdf/2412.04984) / [video](https://www.anthropic.com/news/tracing-thoughts-language-model) 
   **Keywords**: modelos frontera, razonamiento in-context, estrategias emergentes, planificación, inteligencia artificial  
   **Descripción**: Este estudio analiza la capacidad de los modelos de inteligencia artificial para generar y ejecutar esquemas complejos basados en el contexto proporcionado, destacando su potencial en tareas de razonamiento estratégico y planificación.
@@ -31,7 +31,7 @@
 * **Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs** (12 feb 2025 – Center for AI Safety, Berkeley, Pennsylvania)  
   [arXiv](https://arxiv.org/abs/2502.08640)  
   **Keywords**: Valores emergentes, alineación, seguridad en IA  
-  **Descripción**: Este estudio investiga la aparición de sistemas de valores coherentes en los LLMs a medida que escalan, y propone una agenda de investigación en la  Ingeniería de Servicios Públicos (*Utility Engineering*), que abarca tanto el análisis como el control de dichas preferencias, detectando comportamientos problemáticos y ofreciendo métodos para alinear las utilidades de la IA con valores humanos.
+  **Descripción**: Este estudio investiga la aparición de sistemas de valores coherentes en los LLMs a medida que escalan, y propone una agenda de investigación en la Ingeniería de Servicios Públicos (*Utility Engineering*), que abarca tanto el análisis como el control de dichas preferencias, detectando comportamientos problemáticos y ofreciendo métodos para alinear las utilidades de la IA con valores humanos.
 
 * **Auditing Prompt Caching in Language Model APIs** (11 feb 2025 – Standford)    
 [arXiv](https://arxiv.org/abs/2502.07776)  
@@ -44,7 +44,7 @@
   **Keywords**: Jailbreak, red-teaming, seguridad en IA, modelos de lenguaje grandes (*LLMs*), multimodal, escalabilidad  
   **Descripción**: Este estudio presenta "Best-of-N Jailbreaking", un método automatizado en caja negra que consigue vulnerar sistemas avanzados de IA mediante la aplicación repetida de variaciones en los *prompts*. Se evalúa su eficacia en diversas modalidades (texto, visión y audio), destacando un comportamiento de escalado que sigue una ley de potencias.
 
-* **Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet** (May 21, 2024 – Anthropic)  
+* **Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet** (21 may 2024 – Anthropic)  
   [Transformer Circuits](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)  
   **Keywords**: monosemanticidad, escalado, interpretabilidad, modelos transformadores, especialización  
   **Descripción**: Este artículo investiga cómo la propiedad de monosemanticidad se ve afectada al escalar los modelos transformadores, analizando la especialización de sus componentes y las implicaciones para la interpretación y el rendimiento en tareas de procesamiento del lenguaje natural.
