@@ -25,6 +25,11 @@
 
 ## Papers
 
+* **Intelligence at the Edge of Chaos** (1 mar 2025 - Yale University, Columbia University, Northwestern University, Idaho State University)  
+  [arXiv](https://arxiv.org/pdf/2410.02536)  
+  **Keywords**: Inteligencia emergente, autómatas celulares elementales, complejidad, edge of chaos, LLMs, representaciones, razonamiento, predicción de jugadas de ajedrez  
+  **Descripción**: Este estudio explora la relación entre la complejidad de sistemas basados en autómatas celulares elementales (ECA) y la emergencia de inteligencia en modelos de lenguaje grandes (*LLMs*). Se entrena una variante modificada del GPT-2 sobre datos generados por diversas reglas de ECA y se evalúa su desempeño en tareas de razonamiento y predicción de jugadas de ajedrez. Los resultados indican que la eficiencia de los modelos mejora al preentrenarse con datos de complejidad intermedia, sugiriendo un “punto óptimo” o "edge of chaos" para el aprendizaje efectivo.
+
 * **Order Doesn't Matter, But Reasoning Does: Training LLMs with Order-Centric Augmentation** (27 feb 2025 – Shanghai)  
   [arXiv](https://arxiv.org/abs/2502.19907)  
   **Keywords**: Modelos de lenguaje grandes (*LLMs*), razonamiento lógico, aumento de datos centrado en el orden  
