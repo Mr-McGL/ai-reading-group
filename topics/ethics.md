@@ -8,7 +8,7 @@
 ## Papers
 
 * **Frontier Models are Capable of In-context Scheming** (2025-01-16– Apollo Research)  
-  [arXiv](https://arxiv.org/pdf/2412.04984)  
+  [arXiv](https://arxiv.org/pdf/2412.04984) / [video](https://www.anthropic.com/news/tracing-thoughts-language-model) 
   **Keywords**: modelos frontera, razonamiento in-context, estrategias emergentes, planificación, inteligencia artificial  
   **Descripción**: Este estudio analiza la capacidad de los modelos de inteligencia artificial para generar y ejecutar esquemas complejos basados en el contexto proporcionado, destacando su potencial en tareas de razonamiento estratégico y planificación.
 
