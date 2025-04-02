@@ -49,4 +49,10 @@
   **Keywords**: monosemanticidad, escalado, interpretabilidad, modelos transformadores, especialización  
   **Descripción**: Este artículo investiga cómo la propiedad de monosemanticidad se ve afectada al escalar los modelos transformadores, analizando la especialización de sus componentes y las implicaciones para la interpretación y el rendimiento en tareas de procesamiento del lenguaje natural.
 
+* **Towards Monosemanticity: Decomposing Language Models With Dictionary Learning** (5 oct 2023 – Anthropic)  
+  [Transformer Circuits](https://transformer-circuits.pub/2023/monosemantic-features/index.html)  / [2](https://www.anthropic.com/news/decomposing-language-models-into-understandable-components)
+  **Keywords**: transformers, interpretabilidad, características monosemánticas, redes neuronales, análisis  
+  **Descripción**: Este artículo explora el fenómeno de las características monosemánticas en modelos de transformadores, analizando cómo ciertas neuronas se especializan en representar conceptos concretos. Se discuten las implicaciones de este comportamiento para la interpretabilidad y la comprensión del funcionamiento interno de dichos modelos.
+
+
 
