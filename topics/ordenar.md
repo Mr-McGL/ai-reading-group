@@ -1,4 +1,56 @@
-# Artículos por clasificar
+# Artículos y recursos por clasificar
+
+04-2025
+
+***Razonamiento***: 
+*  *DeepSeek-R1 Dissection: Understanding PPO & GRPO Without Any Prior Reinforcement Learning Knowledge*  
+El artículo explica de forma clara y accesible cómo funciona GRPO (Generalized Reversed PPO), una variante del algoritmo PPO utilizado en aprendizaje por refuerzo. A través de visualizaciones y ejemplos, el autor muestra cómo GRPO permite una exploración más eficiente del entorno sin requerir conocimientos previos en RL. Es una guía pensada para ayudar a comprender los conceptos clave detrás de DeepSeek-R1 y sus mejoras.  [Leer el artículo completo](https://huggingface.co/blog/NormalUhr/grpo)
+
+* **Exploración de la AGI mediante herramientas de código abierto.**  
+El repositorio [open-infra-index](https://github.com/deepseek-ai/open-infra-index) de DeepSeek-AI recopila herramientas de infraestructura de inteligencia artificial probadas en producción, destinadas a un desarrollo eficiente de la inteligencia artificial general (AGI) y a fomentar la innovación impulsada por la comunidad.  En febrero de 2025, DeepSeek-AI anunció la apertura de cinco repositorios de código, lanzando uno por día durante su "Semana del Código Abierto 2025". Esta iniciativa busca compartir progresos con total transparencia y contribuir al avance colectivo en el campo de la IA. 
+    * Sistema de inferencia DeepSeek-V3/R1
+    * DeepEP, una biblioteca de comunicación eficiente para paralelismo experto
+    * DeepGEMM, enfocada en operaciones de multiplicación de matrices de alto rendimiento
+    * DeepSeek-AI
+
+***Agentes***
+* *Introducing the Model Context Protocol*  
+Anthropic ha presentado el Model Context Protocol (MCP), un estándar abierto que permite a los desarrolladores conectar asistentes de inteligencia artificial con diversas fuentes de datos, como repositorios de contenido, herramientas empresariales y entornos de desarrollo. MCP facilita la creación de conexiones bidireccionales seguras entre sistemas de IA y fuentes de datos, simplificando las integraciones y mejorando la relevancia de las respuestas generadas por los modelos.  [Leer el artículo completo](https://www.anthropic.com/news/model-context-protocol)
+
+***Cientificos virtuales***:
+* *Accelerating Scientific Breakthroughs with an AI Co-Scientist*  
+**Resumen en castellano:** Google Research ha desarrollado un sistema de inteligencia artificial llamado AI Co-Scientist, basado en Gemini 2.0, que actúa como colaborador virtual para científicos. Este sistema ayuda a generar nuevas hipótesis y propuestas de investigación, acelerando el ritmo de descubrimientos científicos y biomédicos.  [Leer el artículo completo](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
+
+***Medicina***: 
+* [Fudan’s AI Empowered BSI Enables Paralyzed Patients to Walk](https://www.fudan.edu.cn/en/2025/0305/c344a144344/page.htm)  
+La tecnología de BSI, desarrollada con asistencia de inteligencia artificial, establece un puente neuronal entre el cerebro y la médula espinal, ofreciendo esperanza a millones de pacientes con lesiones medulares.
+
+***Hitos***:
+* *Google's AI 'co-scientist' cracked 10-year superbug problem in just 2 days*  Investigadores del Imperial College London tardaron 10 años en descubrir cómo ciertas superbacterias adquieren resistencia a los antibióticos. Al utilizar una herramienta de inteligencia artificial desarrollada por Google, obtuvieron la misma respuesta en solo dos días.  [Artículo completo](https://www.livescience.com/technology/artificial-intelligence/googles-ai-co-scientist-cracked-10-year-superbug-problem-in-just-2-days)
+
+***Modelos***:
+* **EXAONE Deep Released: Setting a New Standard for Reasoning AI*
+LG AI Research ha lanzado EXAONE Deep, una inteligencia artificial avanzada que mejora significativamente las capacidades de razonamiento, posicionándose como una competidora destacada en la industria.  [Leer el artículo completo](https://www.lgresearch.ai/blog/view?seq=543)
+
+* *Introducing Mercury, the first commercial-scale diffusion large language model*  
+**Resumen en castellano:** Inception Labs ha presentado Mercury, una familia de modelos de lenguaje de gran escala basados en difusión (dLLMs) que ofrecen generación de texto de alta calidad hasta 10 veces más rápida y económica que los modelos actuales.  [Leer el artículo completo](https://www.inceptionlabs.ai/news)
+
+* *Wan2.1-I2V-14B-480P: High-Quality Image-to-Video Generation*Wan-AI ha desarrollado Wan2.1-I2V-14B-480P, un modelo de inteligencia artificial capaz de generar videos de 5 segundos en resolución 480p a partir de imágenes estáticas. Este modelo, que cuenta con 14.000 millones de parámetros, puede producir un video en aproximadamente 4 minutos utilizando una GPU RTX 4090, sin necesidad de técnicas de optimización adicionales. ** [Repositorio en Hugging Face](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-480P), [2]( https://medium.com/@cognidownunder/wan-2-1-alibabas-open-source-text-to-video-model-changes-everything-ed1dc4c19f85)
+
+
+
+* *QwQ-32B: Embracing the Power of Reinforcement Learning*  
+Qwen Team ha presentado QwQ-32B, un modelo de lenguaje con 32.000 millones de parámetros que, mediante el uso de aprendizaje por refuerzo, alcanza un rendimiento comparable al de modelos significativamente más grandes como DeepSeek-R1. Este modelo destaca en tareas de razonamiento matemático, programación y resolución general de problemas, integrando capacidades de agente que le permiten utilizar herramientas y adaptarse según el feedback del entorno. [Leer el artículo completo](https://qwenlm.github.io/blog/qwq-32b/)
+
+***HW***
+* *NVIDIA DGX Spark: A Grace Blackwell AI Supercomputer on Your Desk*  
+NVIDIA ha presentado el DGX Spark, un superordenador de inteligencia artificial de escritorio impulsado por el superchip GB10 Grace Blackwell. Este dispositivo compacto ofrece hasta 1.000 TOPS de rendimiento en IA y cuenta con 128 GB de memoria unificada, permitiendo a desarrolladores y científicos de datos trabajar con modelos de hasta 200.000 millones de parámetros de manera local. Además, viene preinstalado con el conjunto de software de IA de NVIDIA, facilitando la creación, ajuste y despliegue de modelos avanzados. [Artículo completo](https://www.nvidia.com/en-us/products/workstations/dgx-spark/?s=08)
+
+
+
+
+
+
 
 ## RAG
 
