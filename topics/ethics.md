@@ -7,6 +7,22 @@
 
 ## Papers
 
+* **Frontier Models are Capable of In-context Scheming** (2025-01-16– Apollo Research)  
+  [arXiv](https://arxiv.org/pdf/2412.04984)  
+  **Keywords**: modelos frontera, razonamiento in-context, estrategias emergentes, planificación, inteligencia artificial  
+  **Descripción**: Este estudio analiza la capacidad de los modelos de inteligencia artificial para generar y ejecutar esquemas complejos basados en el contexto proporcionado, destacando su potencial en tareas de razonamiento estratégico y planificación.
+
+* **On the Biology of a Large Language Model** (27 mar 2025 – Anthropic)  
+  [Transformer Circuits](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)  
+  **Keywords**: biología de modelos de lenguaje, circuitos de atribución, interpretabilidad, análisis de circuitos, Claude 3.5 Haiku  
+  **Descripción**: Este artículo investiga los mecanismos internos utilizados por Claude 3.5 Haiku, el modelo de producción de Anthropic, a través de la metodología de trazado de circuitos. Se examinan diversos casos de estudio –desde razonamiento multi-paso y planificación en poesía hasta diagnósticos médicos y detección de entidades– para revelar cómo el modelo organiza y procesa información internamente, utilizando “grafos de atribución” que actúan como un “diagrama de cableado” de sus procesos computacionales.
+
+* **Circuit Tracing: Revealing Computational Graphs in Language Models** (27 mar 2025 – Anthropic)  
+  [Transformer Circuits](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)  
+  **Keywords**: trazado de circuitos, grafos de atribución, interpretabilidad, modelos transformadores, mecanismos de computación  
+  **Descripción**: Este artículo describe un método para revelar los mecanismos subyacentes en el funcionamiento de modelos de lenguaje. Los autores construyen “grafos de atribución” que representan, de forma interpretable, los pasos computacionales que el modelo realiza al procesar una entrada. Se introduce la idea de un “modelo de reemplazo”, donde se sustituye parte del modelo original por componentes más interpretables, permitiendo analizar interacciones lineales entre características y validar circuitos a través de experimentos de perturbación. Además, se discuten herramientas de visualización y evaluación que facilitan la interpretación de estos grafos y, por tanto, una comprensión más profunda de las decisiones del modelo.
+
+
 * **Minions: Cost-efficient Collaboration Between On-device and Cloud Language Models** (21 feb 2025 – Standford)  
 [arXiv](https://arxiv.org/abs/2502.15964)  
 **Keywords**: Modelos de lenguaje grandes (*LLMs*), colaboración local-remota, eficiencia de costos, razonamiento sobre datos extensos, seguridad
@@ -20,6 +36,17 @@
 * **Auditing Prompt Caching in Language Model APIs** (11 feb 2025 – Standford)    
 [arXiv](https://arxiv.org/abs/2502.07776)  
 **Keywords**: Modelos de lenguaje grandes (*LLMs*), almacenamiento en caché de *prompts*, ataques de canal lateral, privacidad  
-**Descripción**: Este estudio investiga cómo el almacenamiento en caché de *prompts* en APIs de modelos de lenguaje grandes puede introducir variaciones en los tiempos de respuesta, lo que podría ser explotado en ataques de canal lateral. Mediante auditorías estadísticas, los autores detectaron que 8 de 17 proveedores de APIs, incluyendo OpenAI, comparten cachés globalmente entre usuarios, lo que podría permitir a un atacante inferir información sobre los *prompts* de otros usuarios basándose en tiempos de respuesta más rápidos. 
+**Descripción**: Este estudio investiga cómo el almacenamiento en caché de *prompts* en APIs de modelos de lenguaje grandes puede introducir variaciones en los tiempos de respuesta, lo que podría ser explotado en ataques de canal lateral. Mediante auditorías estadísticas, los autores detectaron que 8 de 17 proveedores de APIs, incluyendo OpenAI, comparten cachés globalmente entre usuarios, lo que podría permitir a un atacante inferir información sobre los *prompts* de otros usuarios basándose en tiempos de respuesta más rápidos.
+
+
+* **Best-of-N Jailbreaking** (19 dic 2024 – Standford)  
+  [arXiv](https://arxiv.org/pdf/2412.03556)  
+  **Keywords**: Jailbreak, red-teaming, seguridad en IA, modelos de lenguaje grandes (*LLMs*), multimodal, escalabilidad  
+  **Descripción**: Este estudio presenta "Best-of-N Jailbreaking", un método automatizado en caja negra que consigue vulnerar sistemas avanzados de IA mediante la aplicación repetida de variaciones en los *prompts*. Se evalúa su eficacia en diversas modalidades (texto, visión y audio), destacando un comportamiento de escalado que sigue una ley de potencias.
+
+* **Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet** (May 21, 2024 – Anthropic)  
+  [Transformer Circuits](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)  
+  **Keywords**: monosemanticidad, escalado, interpretabilidad, modelos transformadores, especialización  
+  **Descripción**: Este artículo investiga cómo la propiedad de monosemanticidad se ve afectada al escalar los modelos transformadores, analizando la especialización de sus componentes y las implicaciones para la interpretación y el rendimiento en tareas de procesamiento del lenguaje natural.
 
 
