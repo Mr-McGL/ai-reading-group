@@ -2,6 +2,9 @@
 
 04-2025
 
+
+***************Semantic reconstruction of continuous language from non-invasive brain recordings*************
+
 ***Razonamiento***: 
 *  *DeepSeek-R1 Dissection: Understanding PPO & GRPO Without Any Prior Reinforcement Learning Knowledge*  
 El artículo explica de forma clara y accesible cómo funciona GRPO (Generalized Reversed PPO), una variante del algoritmo PPO utilizado en aprendizaje por refuerzo. A través de visualizaciones y ejemplos, el autor muestra cómo GRPO permite una exploración más eficiente del entorno sin requerir conocimientos previos en RL. Es una guía pensada para ayudar a comprender los conceptos clave detrás de DeepSeek-R1 y sus mejoras.  [Leer el artículo completo](https://huggingface.co/blog/NormalUhr/grpo)
