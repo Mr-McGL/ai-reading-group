@@ -5,7 +5,11 @@
 - [Razonamiento](#razonamiento)
   - [Estrategias](#estrategias)
   - [Papers](#papers)
+    - [Otros](#otros)
+    - [Modelos](#modelos)
   - [Otros recursos](#otros-recursos)
+    - [Repositorio de artículos](#repositorio-de-artículos)
+    - [Blogs](#blogs)
     - [Código](#código)
     - [Vídeos](#vídeos)
 
@@ -24,6 +28,15 @@
 - Carga dinámica de pesos ajustados para distintos problemas.
 
 ## Papers
+
+### Otros
+
+* **Reasoning Models Don't Always Say What They Think** (3 abr 2025 – Anthropic)  
+  [Anthropic](https://www.anthropic.com/research/reasoning-models-dont-say-think)  
+  **Keywords**: Modelos de lenguaje, razonamiento, explicaciones no fieles  
+  **Descripción**: Este estudio examina la fidelidad de las explicaciones generadas por modelos de lenguaje en procesos de razonamiento. Se encontró que, aunque los modelos utilizan pistas proporcionadas en las preguntas para formular sus respuestas, a menudo omiten mencionar estas pistas en sus explicaciones, lo que plantea preocupaciones sobre la transparencia y confiabilidad de sus procesos de razonamiento.
+
+### Modelos
 
 * **Intelligence at the Edge of Chaos** (1 mar 2025 - Yale University, Columbia University, Northwestern University, Idaho State University)  
   [arXiv](https://arxiv.org/pdf/2410.02536)  
@@ -138,6 +151,33 @@
 
 ## Otros recursos
 
+### Repositorio de artículos
+
+  * 🔥***LLM Reasoning Papers*** (15 ene 2025 – philschmid)  
+    Repositorio de artículos  
+    [Hugging Face](https://huggingface.co/collections/philschmid/llm-reasoning-papers-66e6abbdf5579b829f214de8)  
+    **Descripción**: Colección curada que reúne artículos para mejorar las capacidades de razonamiento de los modelos de lenguaje grandes.  
+
+
+### Blogs
+
+* ***How Scaling Laws Drive Smarter, More Powerful AI*** (12 feb 2025 – NVIDIA)  
+  Blog  
+  [Blog de NVIDIA](https://blogs.nvidia.com/blog/ai-scaling-laws/#:~:text=Scaling%20laws%20describe%20how%20the,parameters%20or%20computational%20resources%20increases.)  
+  **Descripción**: Entrada del blog que detalla cómo las leyes de escalabilidad en IA establecen la relación entre la cantidad de datos, parámetros y recursos computacionales con la mejora en el rendimiento de los modelos. Explica conceptos de preentrenamiento, postentrenamiento y escalado en tiempo de inferencia, poniendo especial énfasis en la importancia de aplicar computación acelerada para soportar modelos de razonamiento complejo.
+
+
+* ***Automating GPU Kernel Generation with DeepSeek R1 and Inference Time Scaling*** (fecha – NVIDIA Developer)  
+  Blog  
+  [Developer Blog de NVIDIA](https://developer.nvidia.com/blog/automating-gpu-kernel-generation-with-deepseek-r1-and-inference-time-scaling/)  
+  **Descripción**: Entrada del blog que explica cómo DeepSeek R1 automatiza la generación de kernels para GPU, permitiendo optimizar el rendimiento en tiempo de inferencia. El artículo aborda técnicas avanzadas de deep learning para la generación eficiente de código en GPU y describe cómo el escalado en tiempo de inferencia puede mejorar la eficiencia y capacidad de respuesta de los modelos de inteligencia artificial en producción.
+
+
+* 🔥🔥🔥***Data-optimal scaling laws*** (2025 – Life Architect)  
+  Blog  
+  [Blog](https://lifearchitect.ai/chinchilla/)  
+  **Descripción**: Resumen del escaladado de datos (ratio datos/parametros para maximizar un coste computacional dado)
+
 ### Código
 
 * **DeepScaleR-1.5B-Preview** (febrero 2025 – Agentica)  
@@ -173,4 +213,4 @@
 * **The AI Reasoning Lie** (febrero 2025 – Discover IA - YouTube)  
     [YouTube](https://www.youtube.com/watch?v=oE98PJefK4w&ab_channel=DiscoverAI)  
     **Descripción**:Limitaciones de los modelos de razonamiento.
-  
+

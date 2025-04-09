@@ -12,7 +12,6 @@
   **Keywords**: Modelos de lenguaje, razonamiento, explicaciones no fieles  
   **Descripción**: Este estudio examina la fidelidad de las explicaciones generadas por modelos de lenguaje en procesos de razonamiento. Se encontró que, aunque los modelos utilizan pistas proporcionadas en las preguntas para formular sus respuestas, a menudo omiten mencionar estas pistas en sus explicaciones, lo que plantea preocupaciones sobre la transparencia y confiabilidad de sus procesos de razonamiento.
 
-
 * **On the Biology of a Large Language Model** (27 mar 2025 – Anthropic)  
   [Transformer Circuits](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) | [video](https://www.anthropic.com/news/tracing-thoughts-language-model) 
   **Keywords**: biología de modelos de lenguaje, circuitos de atribución, interpretabilidad, análisis de circuitos, Claude 3.5 Haiku  

@@ -4,9 +4,13 @@
 
 - [Arquitecturas y Limitaciones de los Grandes Modelos de Lenguaje](#arquitecturas-y-limitaciones-de-los-grandes-modelos-de-lenguaje)
   - [Papers](#papers)
+    - [Arquitecturas](#arquitecturas)
     - [Uso de herramientas](#uso-de-herramientas)
     - [Ventana de Contexto](#ventana-de-contexto)
+    - [Eficiencia/Caches](#eficienciacaches)
   - [Otros Recursos](#otros-recursos)
+    - [Blogs](#blogs)
+    - [Repositorio de artículos](#repositorio-de-artículos)
     - [Vídeos](#vídeos)
 
 ## Papers
@@ -66,6 +70,21 @@
 
 
 ## Otros Recursos
+
+### Blogs
+
+* ***Mixture of Experts Explained*** (11 dic 2023 – Hugging Face)  
+  Blog  
+  [Hugging Face Blog](https://huggingface.co/blog/moe)  
+  **Descripción**: Entrada del blog que explica en detalle el concepto de Mixture of Experts (MoE), sus fundamentos, ventajas, desafíos y aplicaciones en modelos de lenguaje y transformers, con énfasis en técnicas de entrenamiento y fine-tuning para modelos dispersos.
+
+### Repositorio de artículos
+
+  * ***Awesome LLM*** (2025 – autor: Hannibal046)  
+    Repositorio de artículos 
+    [GitHub](https://github.com/Hannibal046/Awesome-LLM)  
+    **Descripción**: Repositorio que recopila una amplia variedad de recursos, herramientas y proyectos relacionados con los modelos de lenguaje grandes (LLMs).
+
 
 ### Vídeos
 
