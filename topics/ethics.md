@@ -7,13 +7,14 @@
 
 ## Papers
 
-* **Frontier Models are Capable of In-context Scheming** (16 ene 2025 – Apollo Research)  
-  [arXiv](https://arxiv.org/pdf/2412.04984) / [video](https://www.anthropic.com/news/tracing-thoughts-language-model) 
-  **Keywords**: modelos frontera, razonamiento in-context, estrategias emergentes, planificación, inteligencia artificial  
-  **Descripción**: Este estudio analiza la capacidad de los modelos de inteligencia artificial para generar y ejecutar esquemas complejos basados en el contexto proporcionado, destacando su potencial en tareas de razonamiento estratégico y planificación.
+* **Reasoning Models Don't Always Say What They Think** (3 abr 2025 – Anthropic)  
+  [Anthropic](https://www.anthropic.com/research/reasoning-models-dont-say-think)  
+  **Keywords**: Modelos de lenguaje, razonamiento, explicaciones no fieles  
+  **Descripción**: Este estudio examina la fidelidad de las explicaciones generadas por modelos de lenguaje en procesos de razonamiento. Se encontró que, aunque los modelos utilizan pistas proporcionadas en las preguntas para formular sus respuestas, a menudo omiten mencionar estas pistas en sus explicaciones, lo que plantea preocupaciones sobre la transparencia y confiabilidad de sus procesos de razonamiento.
+
 
 * **On the Biology of a Large Language Model** (27 mar 2025 – Anthropic)  
-  [Transformer Circuits](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)  
+  [Transformer Circuits](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) | [video](https://www.anthropic.com/news/tracing-thoughts-language-model) 
   **Keywords**: biología de modelos de lenguaje, circuitos de atribución, interpretabilidad, análisis de circuitos, Claude 3.5 Haiku  
   **Descripción**: Este artículo investiga los mecanismos internos utilizados por Claude 3.5 Haiku, el modelo de producción de Anthropic, a través de la metodología de trazado de circuitos. Se examinan diversos casos de estudio –desde razonamiento multi-paso y planificación en poesía hasta diagnósticos médicos y detección de entidades– para revelar cómo el modelo organiza y procesa información internamente, utilizando “grafos de atribución” que actúan como un “diagrama de cableado” de sus procesos computacionales.
 
@@ -37,6 +38,11 @@
 [arXiv](https://arxiv.org/abs/2502.07776)  
 **Keywords**: Modelos de lenguaje grandes (*LLMs*), almacenamiento en caché de *prompts*, ataques de canal lateral, privacidad  
 **Descripción**: Este estudio investiga cómo el almacenamiento en caché de *prompts* en APIs de modelos de lenguaje grandes puede introducir variaciones en los tiempos de respuesta, lo que podría ser explotado en ataques de canal lateral. Mediante auditorías estadísticas, los autores detectaron que 8 de 17 proveedores de APIs, incluyendo OpenAI, comparten cachés globalmente entre usuarios, lo que podría permitir a un atacante inferir información sobre los *prompts* de otros usuarios basándose en tiempos de respuesta más rápidos.
+
+* **Frontier Models are Capable of In-context Scheming** (16 ene 2025 – Apollo Research)  
+  [arXiv](https://arxiv.org/pdf/2412.04984) 
+  **Keywords**: modelos frontera, razonamiento in-context, estrategias emergentes, planificación, inteligencia artificial  
+  **Descripción**: Este estudio analiza la capacidad de los modelos de inteligencia artificial para generar y ejecutar esquemas complejos basados en el contexto proporcionado, destacando su potencial en tareas de razonamiento estratégico y planificación.
 
 
 * **Best-of-N Jailbreaking** (19 dic 2024 – Standford)  
