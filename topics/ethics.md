@@ -7,6 +7,11 @@
 
 ## Papers
 
+* **Scaling Unsupervised Learning: A New Approach to Neural Network Architectures** (03 mar 2025 – UC San Diego)  
+  [arXiv](https://arxiv.org/abs/2503.23674)  
+  **Keywords**: aprendizaje no supervisado, redes neuronales, escalabilidad, algoritmos, inteligencia artificial  
+  **Descripción**: Este artículo propone un nuevo enfoque para el escalado de técnicas de aprendizaje no supervisado en redes neuronales. Se presentan algoritmos optimizados para el procesamiento de grandes volúmenes de datos y se evalúa su rendimiento en comparación con métodos tradicionales. Además, se discuten las implicaciones de estos avances en el desarrollo futuro de la inteligencia artificial.
+
 * **Reasoning Models Don't Always Say What They Think** (3 abr 2025 – Anthropic)  
   [Anthropic](https://www.anthropic.com/research/reasoning-models-dont-say-think)  
   **Keywords**: Modelos de lenguaje, razonamiento, explicaciones no fieles  
