@@ -18,6 +18,11 @@
   **Keywords**: procesamiento del lenguaje natural, embeddings acústico-habla-lingüística, electrocorticografía (ECoG), modelo multimodal, conversaciones reales  
   **Descripción**: Este estudio introduce un marco computacional unificado que integra representaciones acústicas, de habla y lingüísticas extraídas de un modelo multimodal (*Whisper*) para predecir la actividad neural durante conversaciones cotidianas. Mediante el uso de electrocorticografía en pacientes durante interacciones naturales, se mapea la alineación entre las distintas capas del modelo y las áreas cerebrales implicadas en la percepción y producción del lenguaje, demostrando una correlación robusta en la actividad neuronal.
 
+  * >>>>>> **Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems** (31 mar 2025 – Google, Meta ...)  
+  [arXiv](https://www.arxiv.org/abs/2504.01990) | [github_papers](https://github.com/FoundationAgents/awesome-foundation-agents?tab=readme-ov-file)
+  **Keywords**: Modelos de lenguaje grandes (*LLMs*), agentes inteligentes, auto-mejora, evolución colaborativa, seguridad  
+  **Descripción**: Este artículo ofrece una revisión exhaustiva sobre los fundamentos y desafíos en el desarrollo de agentes inteligentes basados en modelos de lenguaje grandes. Se explora una arquitectura modular inspirada en el cerebro humano que integra componentes para la percepción, memoria, modelado del mundo, procesamiento de recompensas y sistemas análogos a las emociones. Además, se analizan mecanismos de auto-mejora y evolución adaptativa, así como la colaboración en sistemas multiagente, subrayando la necesidad de construir sistemas seguros, éticos y robustos para su implementación en entornos reales.
+
 * **Neuroscience-Inspired Artificial Intelligence** (19 jul 2017 – Neuron)
   [Neuron](https://doi.org/10.1016/j.neuron.2017.06.011)
   **Keywords**: Inteligencia artificial, neurociencia, modelos inspirados en el cerebro

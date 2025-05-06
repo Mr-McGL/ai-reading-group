@@ -10,7 +10,7 @@
 
 ## Papers
 
-* **Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems** (31 mar 2025 – Google, Meta ...)  
+* >>>> **Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems** (31 mar 2025 – Google, Meta ...)  
   [arXiv](https://www.arxiv.org/abs/2504.01990) | [github_papers](https://github.com/FoundationAgents/awesome-foundation-agents?tab=readme-ov-file)
   **Keywords**: Modelos de lenguaje grandes (*LLMs*), agentes inteligentes, auto-mejora, evolución colaborativa, seguridad  
   **Descripción**: Este artículo ofrece una revisión exhaustiva sobre los fundamentos y desafíos en el desarrollo de agentes inteligentes basados en modelos de lenguaje grandes. Se explora una arquitectura modular inspirada en el cerebro humano que integra componentes para la percepción, memoria, modelado del mundo, procesamiento de recompensas y sistemas análogos a las emociones. Además, se analizan mecanismos de auto-mejora y evolución adaptativa, así como la colaboración en sistemas multiagente, subrayando la necesidad de construir sistemas seguros, éticos y robustos para su implementación en entornos reales.
