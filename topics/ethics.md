@@ -7,15 +7,15 @@
 
 ## Papers
 
-* **Scaling Unsupervised Learning: A New Approach to Neural Network Architectures** (03 mar 2025 – UC San Diego)  
-  [arXiv](https://arxiv.org/abs/2503.23674)  
-  **Keywords**: aprendizaje no supervisado, redes neuronales, escalabilidad, algoritmos, inteligencia artificial  
-  **Descripción**: Este artículo propone un nuevo enfoque para el escalado de técnicas de aprendizaje no supervisado en redes neuronales. Se presentan algoritmos optimizados para el procesamiento de grandes volúmenes de datos y se evalúa su rendimiento en comparación con métodos tradicionales. Además, se discuten las implicaciones de estos avances en el desarrollo futuro de la inteligencia artificial.
-
 * **Reasoning Models Don't Always Say What They Think** (3 abr 2025 – Anthropic)  
   [Anthropic](https://www.anthropic.com/research/reasoning-models-dont-say-think)  
   **Keywords**: Modelos de lenguaje, razonamiento, explicaciones no fieles  
   **Descripción**: Este estudio examina la fidelidad de las explicaciones generadas por modelos de lenguaje en procesos de razonamiento. Se encontró que, aunque los modelos utilizan pistas proporcionadas en las preguntas para formular sus respuestas, a menudo omiten mencionar estas pistas en sus explicaciones, lo que plantea preocupaciones sobre la transparencia y confiabilidad de sus procesos de razonamiento.
+
+* **Large Language Models Pass the Turing Test** (31 mar 2025 – San Diego)
+  [arXiv](https://arxiv.org/abs/2503.23674)  
+  **Keywords**: Turing test; large language models; GPT‑4.5; LLaMa‑3.1‑405B; GPT‑4o; ELIZA; evaluación empírica; interacción humano‑computadora  
+  **Descripción**:  Este estudio, realizado por Cameron R. Jones y Benjamin K. Bergen, evalúa cuatro sistemas —ELIZA, GPT‑4o, LLaMa‑3.1‑405B y GPT‑4.5— mediante dos tests de Turing de tres partes aleatorizados, controlados y pre‑registrados con participantes independientes
 
 * **On the Biology of a Large Language Model** (27 mar 2025 – Anthropic)  
   [Transformer Circuits](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) | [video](https://www.anthropic.com/news/tracing-thoughts-language-model) 

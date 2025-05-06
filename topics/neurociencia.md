@@ -23,6 +23,12 @@
   **Keywords**: Modelos de lenguaje grandes (*LLMs*), agentes inteligentes, auto-mejora, evolución colaborativa, seguridad  
   **Descripción**: Este artículo ofrece una revisión exhaustiva sobre los fundamentos y desafíos en el desarrollo de agentes inteligentes basados en modelos de lenguaje grandes. Se explora una arquitectura modular inspirada en el cerebro humano que integra componentes para la percepción, memoria, modelado del mundo, procesamiento de recompensas y sistemas análogos a las emociones. Además, se analizan mecanismos de auto-mejora y evolución adaptativa, así como la colaboración en sistemas multiagente, subrayando la necesidad de construir sistemas seguros, éticos y robustos para su implementación en entornos reales.
 
+
+* **Leveraging a Large Language Model to Assess Quality-of-Care: Monitoring ADHD Medication Side Effects** (24 abr 2024 – Standford) 
+  [medRxiv](https://www.medrxiv.org/content/10.1101/2024.04.23.24306225v1)  
+  **Keywords**: ADHD; large language model; LLaMA; quality‑of‑care measurement; electronic health records; side effects monitoring; pediatrics; natural language processing  
+  **Descripción**: Este estudio de cohorte retrospectivo incluyó 1.247 niños de 6–11 años con diagnóstico de TDAH y al menos dos encuentros de medicación entre 2015 y 2022 en una red de atención primaria comunitaria. Se entrenó, evaluó y desplegó el modelo LLaMA de código abierto en 15.593 notas clínicas de encuentros presenciales, telemáticos y telefónicos relacionados con TDAH, comparando su detección de la indagación de efectos secundarios con la revisión manual de historias clínicas.
+
 * **Neuroscience-Inspired Artificial Intelligence** (19 jul 2017 – Neuron)
   [Neuron](https://doi.org/10.1016/j.neuron.2017.06.011)
   **Keywords**: Inteligencia artificial, neurociencia, modelos inspirados en el cerebro

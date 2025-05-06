@@ -6,6 +6,8 @@
   - [Papers](#papers)
   - [Otros recursos](#otros-recursos)
     - [Cursos](#cursos)
+    - [Blogs](#blogs)
+    - [Frameworks](#frameworks)
     - [Código](#código)
 
 ## Papers
@@ -51,8 +53,30 @@
   [Buscar Cursos](https://www.nvidia.com/en-us/training/find-training/) | [RAG 1](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1) | [RAG 2](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-16+V1)  
   **Descripción**: Agentes + RAG + Cursos varios
 
-### Código
+### Blogs
 
+* **Building effective agents** (19 dic 2024 – Anthropic)
+  [Blogs](https://www.anthropic.com/engineering/building-effective-agents)  
+  **Descripción**:   Este post ofrece directrices prácticas basadas en la experiencia de Anthropic con múltiples equipos que desarrollan agentes LLM en diversos sectores. Define la distinción arquitectónica entre flujos de trabajo —donde LLMs y herramientas se orquestan mediante rutas de código predefinidas— y agentes, en los que los LLMs dirigen dinámicamente sus propios procesos y uso de herramientas. 
+
+### Frameworks
+
+* **A2A** (9 abr 2025 – Google)
+  [GitHub](https://github.com/google/A2A)
+  **Descripción**: Repositorio oficial de Google LLC que define el protocolo abierto Agent2Agent (A2A) para la interoperabilidad entre agentes.  A2A establece un estándar de comunicación (basado en HTTP, SSE y JSON‑RPC) que facilita el descubrimiento de capacidades, el envío y seguimiento de tareas y el intercambio de resultados entre agentes heterogéneos.
+
+* **Model Context Protocol (MCP)** (fecha de acceso: 6 may 2025 – Anthropic)
+  [Introducción](https://modelcontextprotocol.io/introduction)
+  **Descripción**: Documento oficial que presenta el “Model Context Protocol” (MCP), un estándar abierto para describir, solicitar y gestionar el contexto en sistemas de IA conversacional. Define esquemas JSON para representar información de usuario, de sesión y de entorno, así como mecanismos de versionado y extensibilidad para garantizar interoperabilidad entre distintos proveedores de modelos y plataformas. Incluye ejemplos de carga de contexto, recomendaciones de seguridad y pautas de adopción tanto para desarrolladores como para arquitectos de soluciones.
+
+### Blog
+
+* **Building effective agents** (19 dic 2024 – Anthropic)
+  [Blogs](https://www.anthropic.com/engineering/building-effective-agents)  
+  **Descripción**:   Este post ofrece directrices prácticas basadas en la experiencia de Anthropic con múltiples equipos que desarrollan agentes LLM en diversos sectores. Define la distinción arquitectónica entre flujos de trabajo —donde LLMs y herramientas se orquestan mediante rutas de código predefinidas— y agentes, en los que los LLMs dirigen dinámicamente sus propios procesos y uso de herramientas. 
+
+
+### Código
 
 * **Agentic Reasoning: Reasoning LLMs with Tools for Deep Research** (7 feb 2025 – Oxford)  
   [GitHub](https://github.com/theworldofagents/Agentic-Reasoning)  
