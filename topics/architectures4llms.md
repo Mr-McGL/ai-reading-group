@@ -78,6 +78,23 @@
   [Hugging Face Blog](https://huggingface.co/blog/moe)  
   **Descripción**: Entrada del blog que explica en detalle el concepto de Mixture of Experts (MoE), sus fundamentos, ventajas, desafíos y aplicaciones en modelos de lenguaje y transformers, con énfasis en técnicas de entrenamiento y fine-tuning para modelos dispersos.
 
+* ***How Scaling Laws Drive Smarter, More Powerful AI*** (12 feb 2025 – NVIDIA)  
+  Blog  
+  [Blog de NVIDIA](https://blogs.nvidia.com/blog/ai-scaling-laws/#:~:text=Scaling%20laws%20describe%20how%20the,parameters%20or%20computational%20resources%20increases.)  
+  **Descripción**: Entrada del blog que detalla cómo las leyes de escalabilidad en IA establecen la relación entre la cantidad de datos, parámetros y recursos computacionales con la mejora en el rendimiento de los modelos. Explica conceptos de preentrenamiento, postentrenamiento y escalado en tiempo de inferencia, poniendo especial énfasis en la importancia de aplicar computación acelerada para soportar modelos de razonamiento complejo.
+
+
+* ***Automating GPU Kernel Generation with DeepSeek R1 and Inference Time Scaling*** (fecha – NVIDIA Developer)  
+  Blog  
+  [Developer Blog de NVIDIA](https://developer.nvidia.com/blog/automating-gpu-kernel-generation-with-deepseek-r1-and-inference-time-scaling/)  
+  **Descripción**: Entrada del blog que explica cómo DeepSeek R1 automatiza la generación de kernels para GPU, permitiendo optimizar el rendimiento en tiempo de inferencia. El artículo aborda técnicas avanzadas de deep learning para la generación eficiente de código en GPU y describe cómo el escalado en tiempo de inferencia puede mejorar la eficiencia y capacidad de respuesta de los modelos de inteligencia artificial en producción.
+
+
+* 🔥🔥🔥***Data-optimal scaling laws*** (2025 – Life Architect)  
+  Blog  
+  [Blog](https://lifearchitect.ai/chinchilla/)  
+  **Descripción**: Resumen del escaladado de datos (ratio datos/parametros para maximizar un coste computacional dado)
+
 ### Repositorio de artículos
 
   * ***Awesome LLM*** (2025 – autor: Hannibal046)  

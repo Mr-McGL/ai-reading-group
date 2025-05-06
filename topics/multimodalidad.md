@@ -6,6 +6,7 @@
   - [Papers](#papers)
   - [Recursos](#recursos)
     - [Repositorios de artículos](#repositorios-de-artículos)
+    - [Frameworks](#Frameworks)
     - [OCR](#ocr)
 
 ## Papers
@@ -34,7 +35,23 @@
   [Hugging Face](https://huggingface.co/collections/philschmid/llm-reasoning-papers-66e6abbdf5579b829f214de8)
   **Descripción**: Colección curada que reúne artículos para mejorar las capacidades de razonamiento de los modelos de lenguaje grandes.
 
-### OCR
+
+### Frameworks
+
+* 🔥🔥🔥 ***AnyModel*** (2025) 
+  [git](https://github.com/ritabratamaiti/AnyModal), [HF](https://huggingface.co/AnyModal/LaTeX-OCR-Llama-3.2-1B),  [dataset 1](https://huggingface.co/datasets/unsloth/LaTeX_OCR), [dataset 2](https://huggingface.co/datasets/linxy/LaTeX_OCR)  
+  **Descripción**: Encoder with Llama 3.2-1B. 🔥🔥🔥 AnyModal es un framework modular y extensible para integrar diversas modalidades de entrada.
+
+### OCR/PDF
+* ***Vision Parser:*** (enero 2025 – GitHub) .  
+  [git](https://github.com/iamarunbrahma/vision-parse)
+  **Descripción**: 🔥🔥🔥 Acepta múltiples modelos. Basado en Ollama
+
+* ***MinerU*** (2025) 
+  [git](https://github.com/opendatalab/MinerU), [doc](https://mineru.readthedocs.io/en/latest/index.html), [api](https://mineru.readthedocs.io/en/latest/user_guide/usage/api.html)  
+  AGPL
+  **Descripción**: Converts PDFs into machine-readable formats
+
 * **im2latex** (7 ago 2024 – GitHub)
   [GitHub](https://github.com/d-gurgurov/im2latex?tab=readme-ov-file)
   **Descripción**: Repositorio que contiene código y documentación para un convertidor de imágenes a LaTeX, facilitando la transformación de fórmulas matemáticas y texto a código LaTeX mediante técnicas de visión por ordenador.

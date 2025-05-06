@@ -54,6 +54,8 @@
 
 ## Otros recursos
 
+### Blog
+
 ### Código
 
 * ⚠️**Awesome-GraphRAG** (21 ene 2025 – Hong Kong Polytechnic)  ⭐⭐⭐
