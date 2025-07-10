@@ -6,19 +6,21 @@ Bienvenido al [**AI Reading Group**](https://mr-mcgl.github.io/ai-reading-group/
   
 * *Papers* y otros recursos:
   * [Razonamiento](topics/razonamiento.md)
-  * [Generación Aumentada por Recuperación (Retrieval Augmented Generation - RAG)](topics/RAG.md)
+  * [Generación aumentada por recuperación (Retrieval Augmented Generation - RAG)](topics/RAG.md)
   * [Agentización](topics/agents.md) 
   * [Multimodalidad](topics/multimodalidad.md)
-  * [Arquitecturas y Limitaciones de los Grandes Modelos de Lenguaje](topics/architectures4llms.md)
-  * [AI Governance: Ética, Alineamiento, Explicabilidad y Controles de Seguridad en LLMs](topics/ethics.md)
-  * [Neurociencia](topics/neurociencia.md)
-  * [Cajon desastre 📦️😵](topics/ordenar.md)
+  * [Arquitecturas y limitaciones de los grandes Modelos de lenguaje](topics/architectures4llms.md)
+  * [AI Governance: ética, alineamiento, explicabilidad y controles de seguridad en LLMs](topics/ethics.md)
+  * [Neurociencia y medicina](topics/neurociencia.md)
+  <!--* [Cajon desastre 📦️😵](odds&ends/)-->
 
 * Sesiones:
   * [Feb 2025](sessions/202502.md)
   * [Mar 2025](sessions/202503.md)
   * [Abr 2025](sessions/202504.md)
   * [May 2025](sessions/202505.md)
+  * [Jun 2025](sessions/202506.md)
+  * [Jul 2025](sessions/202507.md)
 
 <!---## 📌 Objetivo  
 ## 🚀 ¿Cómo participar?  
